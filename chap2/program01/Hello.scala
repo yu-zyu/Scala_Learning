@@ -5,6 +5,7 @@ class Hello {
     "Hello World!"
   }
   def printMessage {
+
     println("Hello Scala world!")
   }
 }
